@@ -1,6 +1,6 @@
 # RFEX Door Lock Device
 
-This repository contains the code for an RFID based door lock device named RFEX
+Door lock system based on RFID technology, with cloning experiment. we re experimnting creating RFID based door look decive to explore, how this devices work? and how safe it's, where we are providing a clonning experiment, to clone RFID keys, this experiment is made for HumaneXAI RFEX door lock device.
 
 ![RFEX Connetion Map](RFEX.jpg)
 
